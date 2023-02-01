@@ -13,5 +13,5 @@ Not only did I learn how to implement OpenCV's facial cascade classifier but I w
 The images that are used were collected by me using Google images with the filter of only public domain images. I tried to get a variety of images with different facial angles in order to test some edge cases.
 
 # Files Used
-Facial Detection Images Files.zip - zip file containing the images
+Facial Detection Images Files.zip - zip file containing the images  
 detecting-faces-using-opencv.ipynb - python notebook
