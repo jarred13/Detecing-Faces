@@ -14,4 +14,4 @@ The images that are used were collected by me using Google images with the filte
 
 # Files Used
 Facial Detection Images Files.zip - zip file containing the images  
-detecting-faces-using-opencv.ipynb - python notebook
+detecting-faces-using-opencv.ipynb - Kaggle python notebook
